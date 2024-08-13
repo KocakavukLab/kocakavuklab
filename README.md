@@ -11,8 +11,6 @@
 
 - 🌱 We're currently hiring **Ph.D.'s and Post-Docs**
 
-- 👯 We're looking to collaborate on **muti-omic analysis**
-
 - 👨‍💻 For more information and reaching out! Visit this [page](https://kocakavuklab.vercel.app/about)
 
 - 📝 We regularly publish articles on **Gliomas**
